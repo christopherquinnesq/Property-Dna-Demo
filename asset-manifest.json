@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Property-Dna-Demo/static/css/main.0ed0030c.css",
-    "main.js": "/Property-Dna-Demo/static/js/main.6bbe504b.js",
+    "main.js": "/Property-Dna-Demo/static/js/main.4a034316.js",
     "index.html": "/Property-Dna-Demo/index.html",
     "main.0ed0030c.css.map": "/Property-Dna-Demo/static/css/main.0ed0030c.css.map",
-    "main.6bbe504b.js.map": "/Property-Dna-Demo/static/js/main.6bbe504b.js.map"
+    "main.4a034316.js.map": "/Property-Dna-Demo/static/js/main.4a034316.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed0030c.css",
-    "static/js/main.6bbe504b.js"
+    "static/js/main.4a034316.js"
   ]
 }
