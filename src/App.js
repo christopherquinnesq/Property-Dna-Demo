@@ -1,0 +1,1 @@
+// Simulated React file for GitHub Pages build
